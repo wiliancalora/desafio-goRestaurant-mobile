@@ -88,25 +88,6 @@
           "quantity": 1
         }
       ]
-    },
-    {
-      "name": "A la Camarón",
-      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
-      "price": "25.90",
-      "category": 3,
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
-      "thumbnail_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-gorestaurant-mobile/camarao.png",
-      "formattedPrice": "R$25,90",
-      "id": 2,
-      "product_id": 3,
-      "extras": [
-        {
-          "id": 4,
-          "name": "Bacon",
-          "value": 1.5,
-          "quantity": 1
-        }
-      ]
     }
   ],
   "favorites": [
